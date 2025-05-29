@@ -133,6 +133,7 @@ ul.hero-bullets {
     text-align: left;
     text-decoration: none;
     line-height: 1.2;
+    margin-top: 0;
 }
 /*
 .hero-desc {
